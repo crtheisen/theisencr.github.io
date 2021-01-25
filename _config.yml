@@ -62,7 +62,7 @@ author:
   bio    : "Site under construciton."
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-scroll"
       url: "https://scholar.google.com/citations?user=KTbdJvYAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -70,14 +70,14 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/crtheisen"
-    - label: "GitHub"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/crtheisen/"
 
 footer:
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-scroll"
       url: "https://scholar.google.com/citations?user=KTbdJvYAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -85,7 +85,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/crtheisen"
-    - label: "GitHub"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/crtheisen/"
 
