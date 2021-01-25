@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Chris Theisen
-email:
+email: theisen.cr@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Chris Theisen's personal site, focused on software security,
   software engineering, and my resume.
 twitter_username: theisencr
 github_username: theisencr
 minimal_mistakes_skin: air
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
