@@ -62,31 +62,31 @@ author:
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-scroll"
-      url: "https://scholar.google.com/citations?user=KTbdJvYAAAAJ&hl=en" target="_blank"
+      url: "https://scholar.google.com/citations?user=KTbdJvYAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/crtheisen" target="_blank"
+      url: "https://twitter.com/crtheisen"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/crtheisen" target="_blank"
+      url: "https://github.com/crtheisen"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/crtheisen/" target="_blank"
+      url: "https://www.linkedin.com/in/crtheisen/"
 
 footer:
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-scroll"
-      url: "https://scholar.google.com/citations?user=KTbdJvYAAAAJ&hl=en" target="_blank"
+      url: "https://scholar.google.com/citations?user=KTbdJvYAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/crtheisen" target="_blank"
+      url: "https://twitter.com/crtheisen"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/crtheisen" target="_blank"
+      url: "https://github.com/crtheisen"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/crtheisen/" target="_blank"
+      url: "https://www.linkedin.com/in/crtheisen/"
 
 defaults:
   # _posts
