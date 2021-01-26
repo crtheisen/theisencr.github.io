@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Chris Theisen, PhD"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Site under construciton."
+  bio    : "Site under construction."
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-scroll"
